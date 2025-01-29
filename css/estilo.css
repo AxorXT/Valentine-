@@ -227,12 +227,12 @@ button {
 /* Media Queries para pantallas muy pequeñas (móviles pequeños) */
 @media (max-width: 480px) {
     h1 {
-        font-size: 5px; /* Ajustar tamaño del texto */
-        top: 5%;
+        font-size: 25px; /* Ajustar tamaño del texto */
+        top: 8%;
     }
 
     .imagen {
-        width: 10%; /* Imagen muy pequeña */
+        width: 40%; /* Imagen muy pequeña */
         top: 45%;
     }
 
