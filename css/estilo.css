@@ -227,23 +227,25 @@ button {
 /* Media Queries para pantallas muy pequeñas (móviles pequeños) */
 @media (max-width: 480px) {
     h1 {
-        font-size: 25px; /* Ajustar tamaño del texto */
-        top: 8%;
+        font-size: 20px; /* Ajustar tamaño del texto */
+        top: 10%;
     }
 
     .imagen {
-        width: 40%; /* Imagen muy pequeña */
+        width: 80%; /* Imagen muy pequeña */
         top: 45%;
     }
 
     .gif {
-        width: 60px; /* GIFs aún más pequeños */
-        top: 70%; /* Los GIFs se separan más */
+        width: 90px; /* GIFs aún más pequeños */
+        top: 75%; /* Los GIFs se separan más */
+        left: 75%;
     }
 
     .gif2 {
-        width: 60px; /* GIFs aún más pequeños */
-        top: 70%; /* Los GIFs se separan más */
+        width: 90px; /* GIFs aún más pequeños */
+        top: 75%; /* Los GIFs se separan más */
+        left: 30%
     }
 
     button {
